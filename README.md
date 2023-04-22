@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daymartins!
 - 👩🏻‍💻 I work as a fullstack developer on a MVNO project in a brazilian retail.
-- 📫 You can to reach me in dayanemartins04@gmail.com
+- 📫 You can reach me in dayanemartins04@gmail.com
 
 <!---
 daymartins/daymartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
