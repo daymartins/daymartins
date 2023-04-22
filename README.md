@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @daymartins!
-- 📚 I’m currently learning about data science and business intelligence and also some frontend skills (React / TS).
 - 👩🏻‍💻 I work as a fullstack developer on a MVNO project in a brazilian retail.
 - 📫 You can to reach me in dayanemartins04@gmail.com
 
