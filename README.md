@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daymartins!
-- 👩🏻‍💻 I work as a fullstack developer on a MVNO project in a brazilian retail.
+- 👩🏻‍💻 I work as a fullstack developer at Nubank, one of the largest digital banks in Brazil.
 - 📫 You can reach me in dayanemartins04@gmail.com
 
 <!---
